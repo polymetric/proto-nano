@@ -1,9 +1,6 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7)
 
   (general
-    (links 105)
-    (no_connects 0)
-    (area -3.7214 -2.54 45.720001 20.320001)
     (thickness 1.6)
     (drawings 8)
     (tracks 582)
@@ -64,8 +61,11 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFF7F)
     (pcbplotparams
-      (layerselection 0x010fc_80000001)
+      (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
+      (usegerberattributes false)
+      (usegerberadvancedattributes false)
+      (creategerberjobfile true)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -74,8 +74,7 @@
       (useauxorigin false)
       (hpglpennumber 1)
       (hpglpenspeed 20)
-      (hpglpendiameter 15)
-      (hpglpenoverlay 2)
+      (hpglpendiameter 15.000000)
       (psnegative false)
       (psa4output false)
       (plotreference false)
@@ -1210,7 +1209,7 @@
     (fp_text value LM1117-5.0 (at 0 -4.5 180) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 0 0 450) (layer B.Fab)
+    (fp_text user %R (at 0 0 90) (layer B.Fab)
       (effects (font (size 0.8 0.8) (thickness 0.12)) (justify mirror))
     )
     (fp_line (start -1.85 2.3) (end -0.8 3.35) (layer B.Fab) (width 0.1))
