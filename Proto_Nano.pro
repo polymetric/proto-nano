@@ -1,4 +1,4 @@
-update=5/27/2018 7:15:43 PM
+update=5/30/2018 2:20:22 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -65,13 +75,3 @@ LibName33=C:/Users/polymetric/Documents/KiCad/Libraries/Polymetric_KiCad_Library
 LibName34=C:/Users/polymetric/Documents/KiCad/Libraries/Polymetric_KiCad_Library/Symbols/poly_stepper_drivers
 LibName35=C:/Users/polymetric/Documents/KiCad/Libraries/Polymetric_KiCad_Library/Symbols/poly_switching_regulators
 LibName36=C:/Users/polymetric/Documents/KiCad/Libraries/arduino-kicad-library/arduino
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
