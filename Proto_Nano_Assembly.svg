@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="780.12792"
-     inkscape:cy="438.39658"
+     inkscape:zoom="2.8"
+     inkscape:cx="511.70764"
+     inkscape:cy="175.4509"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="in"
@@ -1244,7 +1244,7 @@
          id="tspan1727"
          x="87.931671"
          y="249.43536"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1252,24 +1252,20 @@
        y="248.08968"
        id="text1733"><tspan
          sodipodi:role="line"
+         id="tspan4801"
          x="139.72266"
-         y="248.08968"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1735">Copyright © 2018 Brian E. Rutan</tspan><tspan
+         y="248.08968">Copyright © 2018 polymetric</tspan><tspan
          sodipodi:role="line"
+         id="tspan4803"
          x="139.72266"
-         y="253.38135"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1739">License: CC BY-SA</tspan><tspan
+         y="253.38135">License: CC BY-SA</tspan><tspan
          sodipodi:role="line"
+         id="tspan4805"
          x="139.72266"
-         y="258.673"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1741">creativecommons.org/licenses/by-sa/4.0</tspan><tspan
+         y="258.673">creativecommons.org/licenses/by-sa/4.0</tspan><tspan
          sodipodi:role="line"
+         id="tspan4807"
          x="139.72266"
-         y="263.96466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan1743">github.com/polymetric1/proto-nano</tspan></text>
+         y="263.96466">bitbucket.org/polymetric1/proto-nano</tspan></text>
   </g>
 </svg>
