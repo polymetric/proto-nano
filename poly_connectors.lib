@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ICSP_Header_Master
+#
+DEF ICSP_Header_Master J 0 40 Y Y 1 F N
+F0 "J" 250 -250 60 H V C CNN
+F1 "ICSP_Header_Master" 0 250 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" 0 350 60 H I C CNN
+F3 "" 300 -550 60 H I C CNN
+DRAW
+S 300 -200 -300 200 0 1 0 f
+X MISO 1 -500 100 200 R 50 50 1 1 I
+X +5V 2 500 -50 200 L 50 50 1 1 w
+X SCK 3 -500 -100 200 R 50 50 1 1 O
+X MOSI 4 -500 0 200 R 50 50 1 1 O
+X RESET 5 500 50 200 L 50 50 1 1 O
+X GND 6 0 -400 200 U 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# ICSP_Header_Slave
+#
+DEF ICSP_Header_Slave J 0 40 Y Y 1 F N
+F0 "J" 250 -250 60 H V C CNN
+F1 "ICSP_Header_Slave" 0 250 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" 0 350 60 H I C CNN
+F3 "" 300 -550 60 H I C CNN
+DRAW
+S 300 -200 -300 200 0 1 0 f
+X MISO 1 -500 100 200 R 50 50 1 1 O
+X +5V 2 500 -50 200 L 50 50 1 1 W
+X SCK 3 -500 -100 200 R 50 50 1 1 I
+X MOSI 4 -500 0 200 R 50 50 1 1 I
+X RESET 5 500 50 200 L 50 50 1 1 I
+X GND 6 0 -400 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
